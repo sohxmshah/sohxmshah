@@ -16,7 +16,7 @@ Glad to see you here!<br> I'm an aspiring Computer Engineer currently pursuing a
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohxmshah&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/><br>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=sohxmshah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
