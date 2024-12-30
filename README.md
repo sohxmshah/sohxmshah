@@ -1,6 +1,6 @@
 ### <samp><b>Hi there, I'm <a href="https://github.com/sohxmshah" target="_blank"><b>Soham Shah</b></a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-Glad to see yu here!<br> I'm an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.<br><br>💻 I have a growing skill set in technologies including Git, GitHub, HTML, CSS, JavaScript, Typescript, Node.js, Next.js, React.js, MongoDB, MySQL, and more.<br><br>🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
+Glad to see you here!<br> I'm an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.<br><br>💻 I have a growing skill set in technologies including Git, GitHub, HTML, CSS, JavaScript, Typescript, Node.js, Next.js, React.js, MongoDB, MySQL, and more.<br><br>🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
 
 
 ## 🌐 How to reach me :
