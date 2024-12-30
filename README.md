@@ -5,8 +5,7 @@ Glad to see you here!<br> I'm an aspiring Computer Engineer currently pursuing a
 🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
 
 
-## 🌐 How to reach me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohxmshah)
+## 🌐 How to reach me : [LinkedIn](https://www.linkedin.com/in/sohxmshah/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sohxmshxh/)  
 
 # 💻 Tech Stack :
