@@ -3,7 +3,7 @@ Glad to see yu here!<br> I'm an aspiring Computer Engineer currently pursuing a 
 
 
 ## 🌐 How to reach me :
-- [Instagram](https://www.instagram.com/sohxmdshah/)
+- [Instagram](https://www.instagram.com/sohxmshah/)
 - [Email](mailto:sohamshxh@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/sohxmshah/)
 
