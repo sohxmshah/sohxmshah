@@ -6,7 +6,7 @@ Glad to see you here!<br> I'm an aspiring Computer Engineer currently pursuing a
 
 
 ## 🌐 How to reach me :
-- <b><a href="https://www.linkedin.com/in/sohxmshah/">LinkedIn</a>
+-> <b><a href="https://www.linkedin.com/in/sohxmshah/">LinkedIn</a><br>
 -> <a href="https://www.instagram.com/in/sohxmshxh/">Instagram</a></b>
 
 # 💻 Tech Stack :
