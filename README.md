@@ -1,4 +1,4 @@
-### <samp><b>Hi there,I'm <a href="https://github.com/sohxmshah" target="_blank">Soham Shah</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>Hi there,I'm <a href="https://github.com/sohxmshah" target="_blank">Soham Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 ### Glad to see you here!
 👋 Hi I'm Soham Shah, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.<br><br>
