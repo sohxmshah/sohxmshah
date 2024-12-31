@@ -1,6 +1,6 @@
 ### <samp><b>Hi there,I'm <a href="https://github.com/sohxmshah" target="_blank">Soham Shah</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-### Profile Views ![Profile views](https://img.shields.io/badge/Visitors-231-blue)
+### ![Profile views](https://img.shields.io/badge/Visitors--blue)
 
 ### Glad to see you here!
 👋 Hi I'm Soham Shah, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.<br><br>
