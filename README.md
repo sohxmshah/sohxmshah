@@ -7,7 +7,7 @@
 
 
 ## 🌐 How to reach me :
--<strong><a style="color:red;" href="https://www.linkedin.com/in/sohxmshah/">LinkedIn</a>
+<strong>-<a href="https://www.linkedin.com/in/sohxmshah/">LinkedIn</a>
 -<a href="https://www.instagram.com/sohxmshxh/">Instagram</a></strong>
 
 # 💻 Tech Stack :
