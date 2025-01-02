@@ -5,7 +5,7 @@
 💻 I have a growing skill set in technologies including Git, GitHub, HTML, CSS, JavaScript, Typescript, Node.js, Next.js, React.js, MongoDB, MySQL, and more.<br><br>
 🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
 
-<img src="Internal storage/Download/f69d1a65-cd5b- 4de2-a0b4-83d4279e2256.jpeg" width="50">
+<samp><img src="/Internal storage/Download/f69d1a65-cd5b- 4de2-a0b4-83d4279e2256.jpeg" width="50"></samp>
 
 ## 🌐 Get in touch via :
 - <strong><a href="https://www.linkedin.com/in/sohxmshah/">LinkedIn</a></strong>
