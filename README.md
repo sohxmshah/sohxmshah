@@ -1,5 +1,10 @@
 ### <samp>Hi there,I'm <strong><a href="https://github.com/sohxmshah" target="_blank">Soham Shah</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
+<strong><a href="https://visitcount.itsvg.in"></strong>
+<img src="https://visitcount.itsvg.in/api?id=Sohxmshah&label=Profile%20Views&color=1&icon=3&pretty=false" />
+</a>
+
+
 ### Glad to see you here!
 👋 Hi I'm Soham Shah, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.<br><br>
 💻 I have a growing skill set in technologies including Git, GitHub, HTML, CSS, JavaScript, Typescript, Node.js, Next.js, React.js, MongoDB, MySQL, and more.<br><br>
@@ -21,8 +26,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=sohxmshah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=Sohxmshah&label=Profile%20Views&color=12&icon=3&pretty=true" />
-</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
