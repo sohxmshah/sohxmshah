@@ -25,6 +25,7 @@
 <img src="https://visitcount.itsvg.in/api?id=Sohxmshah&label=Profile%20Views&color=1&icon=3&pretty=false"/>
 </a>
 
+[![](https://visitcount.itsvg.in/api?id=Sohxmshah&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
