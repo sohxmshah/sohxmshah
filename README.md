@@ -20,9 +20,6 @@
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=sohxmshah&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2>Profile Viewers</h2>
-[![](https://visitcount.itsvg.in/api?id=Sohxmshah&label=Profile%20Views&color=1&icon=3&pretty=false)](https://visitcount.itsvg.in)
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
