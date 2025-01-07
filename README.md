@@ -6,9 +6,7 @@
 🚀 I'm driven to become a Software Engineer and am excited about contributing to an IT company. I love learning new technologies and am always eager to expand my knowledge and skills.
 
 ## 🌐 Get in touch via :
-- <strong><a href="https://www.sohamshah@gmail.com">Email</a>
-<img src="https://github.com/sohxmshah/sohxmshah/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;
-- <a href="https://www.linkedin.com/in/sohxmshah/">LinkedIn</a>
+- <strong><a href="https://www.linkedin.com/in/sohxmshah/">LinkedIn</a>
 - <a href="https://www.instagram.com/sohxmshxh/">Instagram</a>
 - <a 
 href="https://www.telegram.com/sohxmshah/">Telegram</a></strong>
