@@ -1,6 +1,6 @@
 ### <samp>Hi, I'm <strong><a href="https://github.com/sohxmshah" target="_blank">Soham Shah</a></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=F7B801&width=435&lines=Building+Innovative+Web+Applications;Experienced+MERN+Stack+Developer;Let's+Create+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=500&color=F7B801&width=435&lines=Building+Innovative+Web+Applications;MERN+Stack+Developer;Let's+Create+Something+Amazing!+%F0%9F%9A%80" alt="Typing SVG" />
 
 ### Glad to see you here!
 👋 Hi I'm Soham Shah, an aspiring Computer Engineer currently pursuing a BSc in Information Technology at Atmiya University. I'm deeply passionate about Software Development and dedicated to academic excellence.<br><br>
